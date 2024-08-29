@@ -1,7 +1,7 @@
 #include <iostream>
 
-//Shrey Raj
-//PRN - 23070123123
+//Garv Nandwana
+//PRN - 23070123167
 
 int main() {
     // Arithmetic Operators
