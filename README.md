@@ -40,6 +40,7 @@ cout << (p <= q) << "\n";
 return 0;
 }
 ```
+![image](https://github.com/user-attachments/assets/6d7663f7-adbf-4dae-a1d8-b03c2d77af8e)
 
 Output:-
 Conclusion :- in this experiment we learnt to use the basic operators like arithematic, functional and logical.
